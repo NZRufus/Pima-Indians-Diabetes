@@ -9,7 +9,7 @@ This was based upon various readily measurable physical factors and combining th
 
 **Data Sources**
 
-Thanks to the Data UCI database repository where the data was obtained. It was the Pima Indians file that had 768 subjects measured across 8 predicter variables and 1 outcome variable (whether have diabetes or not).
+Thanks to the UCI database repository where the data was obtained. It was the Pima Indians file that had 768 subjects measured across 8 predicter variables and 1 outcome variable (whether have diabetes or not).
 
 **Methods Used and Questions Asked**
 
