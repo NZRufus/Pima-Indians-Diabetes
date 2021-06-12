@@ -1,6 +1,5 @@
 # Pima-Indians-Diabetes
-**Aims and Objectives**
-**Determining risk of diabetes/ prevalence of diabetes in Pima Native Americans**
+**Aims and Objectives - Determining risk of diabetes/ prevalence of diabetes in Pima Native Americans**
 
 This project was aiming to build a model for predicting whether a Female Pima Native American has diabetes or not. This project was chosen as I am interested in supervised learning and one of the areas of work that I am interested in working in the future is Health Research and potentially Epidemiology.
 
