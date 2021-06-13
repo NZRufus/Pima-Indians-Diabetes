@@ -9,10 +9,14 @@ This was based upon various readily measurable physical factors and combining th
 
 **Data Sources**
 
-Thanks to the UCI database repository where the data was obtained. It was the Pima Indians file that had 768 subjects measured across 8 predicter variables and 1 outcome variable (whether have diabetes or not).
+Thanks to the UCI database repository where the data was obtained.  It was the Pima Indians csv file with 8 predictor variables with 1 outcome variable (whether have diabetes or not). It contained 768 subjects.
 
 **Methods Used and Questions Asked**
 
 The project is an observational one to show mainly that 1) An Ensemble method can be built to predict diabetes outcome in Female Pima Native Americans with reasonable good accuracy/precision. 2) Separate Supervised Learning techniques could be used as well that were better than baseline but not as good as the Ensemble Method 3) How to clean the  data to some degree as well as 4) how to interpret results and how to potentially change specifications to meet certain needs such as accuracy cf precision and whether interested in avoiding false positives or false negatives.
 
 The methodology was mainly self-taught using a variety of Datacamp and Udemy methods for Python (Data Cleaning/wrangling/Pandas/Seaborn), Supervised Learning and Ensemble Method.
+
+**Acknowlegements**
+
+Thanks to the UCI for the access to their database repository. Acknowledgements to Jose Portilla for his excellenet supervised learning courses on Udemy as well as to Datacamp for the good courses on Ensembling as well as Jason Brownlee, MachineLearningRepository for his courses/advice on Supervised Learning.
