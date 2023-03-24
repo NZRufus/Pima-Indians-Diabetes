@@ -19,4 +19,4 @@ The methodology was mainly self-taught using a variety of Datacamp and Udemy met
 
 **Acknowlegements**
 
-Thanks to the UCI for the access to their database repository. Acknowledgements to Jose Portilla for his excellenet supervised learning courses on Udemy as well as to Datacamp for the good courses on Ensembling as well as Jason Brownlee, MachineLearningRepository for his courses/advice on Supervised Learning.
+Thanks to the UCI for the access to their database repository. Acknowledgements to Jose Portilla for his excellent supervised learning courses on Udemy as well as to Datacamp for the good courses on Ensembling as well as Jason Brownlee, MachineLearningRepository for his courses/advice on Supervised Learning.
